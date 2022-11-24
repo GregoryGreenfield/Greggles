@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gregory
+- 👋 Hello, I’m Gregory!
 - 👀 I’m currently switching from radiotherapy engineering to software development
 - 🌱 I’m currently writing some programs that pique my fancy!
 <!---
